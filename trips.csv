@@ -1,0 +1,16 @@
+trip;carrier;depart;arrive;capacity
+23;FlixBus;ZAG;PAR;100
+24;FlixBus;PAR;ZAG;100
+27;FlixBus;PAR;TRS;100
+28;FlixBus;TRS;PAR;80
+35;FlixBus;PAR;FFM;100
+36;FlixBus;FFM;PAR;80
+37;FlixBus;ZAG;TRS;40
+38;FlixBus;TRS;ZAG;100
+43;FlixBus;ZAG;FFM;80
+44;Eurolines;FFM;ZAG;80
+45;Eurolines;ZAG;PAR;80
+46;Eurolines;TRS;FFM;40
+101;MegaBus;FFM;TRS;100
+102;MegaBus;PAR;TRS;40
+103;MegaBus;FFM;TRS;80
